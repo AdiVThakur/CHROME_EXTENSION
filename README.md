@@ -1,7 +1,7 @@
 # CHROME_EXTENSION
 
 CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS
-COMPANY: CODTECH IT SOLUTIONS NAME: Prajyot Prakash Deshpande INTERN ID: CT08JIT DOMAIN: FULL STACK WEB DEVELOPMENT BATCH DURATION: JANUARY 5th, 2025 to FEBRUARY 5th, 2025 MENTOR NAME: NEELA SANTHOSH KUMAR
+
 
 DESCRIPTION OF TASK PERFORMED:
 As a final project for my CODTECH internship, I developed "Time Tracking & Productivity Analysis," a sophisticated full-stack Chrome extension designed to monitor user web activity and provide actionable productivity insights. The project architecture is divided into three core components: the browser extension, a Node.js backend, and a dynamic analytics dashboard.
@@ -26,3 +26,7 @@ Conclusion:
 This project demonstrates the seamless integration of Full Stack technologies to solve a real-world productivity problem. By combining the Chrome Extension API, Node.js, and MongoDB, I created a tool that not only tracks data but translates it into a visually compelling user experience. The final product is a lightweight, secure, and highly responsive system that empowers users to understand and optimize their digital habits.
 
 OUTPUT OF THE TASK
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/f18534d0-3085-4a60-82b1-ef05b6930c85" />
+
+<img width="731" height="365" alt="Image" src="https://github.com/user-attachments/assets/3499b6ff-f30c-4eb9-ba05-211320ae1d0a" />
