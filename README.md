@@ -1,6 +1,18 @@
-# CHROME_EXTENSION
+# CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS
 
-CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS
+
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: Thakur Aditya Vithalrao
+
+INTERN ID: CTIS1924
+
+DOMAIN: Full Stack Web Development
+
+DURATION: 6 Weeks
+
+MENTOR: NEELA SANTOSH
 
 
 DESCRIPTION OF TASK PERFORMED:
@@ -27,6 +39,7 @@ This project demonstrates the seamless integration of Full Stack technologies to
 
 OUTPUT OF THE TASK
 
+<img width="731" height="365" alt="Image" src="https://github.com/user-attachments/assets/3499b6ff-f30c-4eb9-ba05-211320ae1d0a" />
+
 <img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/f18534d0-3085-4a60-82b1-ef05b6930c85" />
 
-<img width="731" height="365" alt="Image" src="https://github.com/user-attachments/assets/3499b6ff-f30c-4eb9-ba05-211320ae1d0a" />
